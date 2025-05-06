@@ -85,6 +85,9 @@ img {
 .footer {
     padding: 40px 0;
 }
+.footer {
+    padding: 40px 0;
+}
 .footer h4 {
     margin-bottom: 10px;
     color: #ccc; /* Set a contrasting color */
@@ -177,6 +180,7 @@ img {
     background: var(--dark-color);
     color:#111;
 }
+
 
 /* Hamburger button */
 .hamburger-button {
