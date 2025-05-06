@@ -1,9 +1,9 @@
 # Website for Travel Agency
 Contact Us:
-- includes email and phone number
+- Includes email and phone number
   
 About Us
-- includes the 2 co-founder and their specialty + information
+- Includes the 2 co-founder and their specialty + information
   
 Home
 - Contains the basics of why we want to choose this company and why it's better
